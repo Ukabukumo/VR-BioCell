@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrbiocellsvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\download\\VR-BioCell(SVR)_ver11\\VR-BioCell(SVR)\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-BioCell(SVR) [Testing]"
+        }
+      }
+    }
+  ]
+}
